@@ -12,4 +12,4 @@ The token file is created according to the .tl file name. (for example: toy_lang
 	To build: javac -d build/classes -sourcepath src src/compiler_project/Compiler_Project.java
 	To run: java -classpath build/classes compiler_project.Compiler_Project test/sqrt1.tl
 OR
-	run <inputfilename>
+	run inputfilename
